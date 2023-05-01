@@ -1,4 +1,4 @@
-Giant Shaft Enterprises
+Military Clicker
 =======================
 
 I forked this off of Eric Freeman's 'Giant Shaft Enterprises', a game which I love!! Go check it out in the link below! 
