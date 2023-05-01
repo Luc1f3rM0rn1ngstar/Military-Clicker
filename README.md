@@ -1,6 +1,8 @@
 Giant Shaft Enterprises
 =======================
 
-I was informed at work that my team was switching projects to one using AngularJS for the front end.  This project was my attempt to ramp up on AngularJS by making a Cookie Clicker clone.  It has since expanded quite a bit with an in-depth prestige system, multiple resources to collect, and space battles.
+I forked this off of Eric Freeman's 'Giant Shaft Enterprises', a game which I love!! Go check it out in the link below! 
+
+p.s. this is my first time doing anything like this so sorry in advance lmao.
 
 Playable online at http://game.giantshaft.com/
